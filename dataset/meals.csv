@@ -1,0 +1,79 @@
+id,name,meal_type,calories,protein,carbs,fat,ingredients,diet_tags,allergen_tags,budget_level,cooking_time,cuisine,difficulty
+meal_001,Banana Oatmeal,breakfast,350,10,65,6,"oats, banana, milk","halal, vegetarian, balanced",milk,low,10,western,easy
+meal_002,Peanut Butter Toast,breakfast,390,14,42,18,"whole wheat bread, peanut butter, banana","halal, vegetarian, high_protein","peanut, gluten",low,5,western,easy
+meal_003,Egg Fried Rice Breakfast,breakfast,480,18,62,16,"rice, egg, carrot, scallion, soy sauce","halal, balanced","egg, soy",low,15,indonesian,easy
+meal_004,Tempeh Breakfast Bowl,breakfast,430,24,52,13,"rice, tempeh, cucumber, tomato, soy sauce","halal, vegetarian, high_protein",soy,low,18,indonesian,easy
+meal_005,Greek Yogurt Fruit Bowl,breakfast,320,18,48,6,"greek yogurt, banana, apple, granola","halal, vegetarian, high_protein","milk, gluten",medium,5,western,easy
+meal_006,Avocado Egg Toast,breakfast,410,17,38,21,"whole wheat bread, avocado, egg","halal, balanced","egg, gluten",medium,10,western,easy
+meal_007,Chicken Porridge,breakfast,420,26,55,8,"rice, chicken, ginger, scallion","halal, high_protein, balanced",,medium,30,indonesian,medium
+meal_008,Mung Bean Porridge,breakfast,360,13,64,7,"mung beans, coconut milk, palm sugar","halal, vegetarian",coconut,low,35,indonesian,medium
+meal_009,Scrambled Egg Wrap,breakfast,450,22,40,20,"tortilla, egg, cheese, tomato","halal, high_protein","egg, milk, gluten",medium,12,western,easy
+meal_010,Tofu Scramble,breakfast,330,20,28,14,"tofu, spinach, tomato, turmeric","halal, vegetarian, vegan, high_protein",soy,low,15,asian,easy
+meal_011,Apple Cinnamon Oats,breakfast,340,9,62,7,"oats, apple, cinnamon, milk","halal, vegetarian, balanced",milk,low,10,western,easy
+meal_012,Nasi Uduk Egg Plate,breakfast,560,19,72,22,"rice, coconut milk, egg, cucumber, sambal","halal, balanced","egg, coconut",low,25,indonesian,medium
+meal_013,Sweet Potato Egg Plate,breakfast,390,16,50,13,"sweet potato, egg, spinach","halal, balanced",egg,low,20,asian,easy
+meal_014,Berry Smoothie Bowl,breakfast,370,16,60,8,"banana, berries, yogurt, oats","halal, vegetarian",milk,medium,7,western,easy
+meal_015,Corn Egg Soup,breakfast,300,15,35,10,"corn, egg, chicken broth, scallion","halal, balanced",egg,low,15,asian,easy
+meal_016,Cheese Omelette Rice,breakfast,500,24,52,20,"rice, egg, cheese, spinach","halal, high_protein","egg, milk",medium,15,asian,easy
+meal_017,Chicken Rice Bowl,lunch,520,35,60,12,"rice, chicken breast, vegetables, soy sauce","halal, high_protein, balanced",soy,medium,25,asian,easy
+meal_018,Nasi Ayam Kecap,lunch,560,34,68,15,"rice, chicken, sweet soy sauce, garlic, cucumber","halal, high_protein, balanced",soy,medium,30,indonesian,easy
+meal_019,Tempeh Stir Fry Rice,lunch,500,25,62,16,"rice, tempeh, vegetables, soy sauce","halal, vegetarian, high_protein",soy,low,20,indonesian,easy
+meal_020,Tofu Vegetable Rice Bowl,lunch,460,22,58,14,"rice, tofu, cabbage, carrot, soy sauce","halal, vegetarian, vegan, balanced",soy,low,20,indonesian,easy
+meal_021,Beef Teriyaki Bowl,lunch,620,38,70,20,"rice, beef, teriyaki sauce, broccoli","halal, high_protein",soy,high,25,japanese,medium
+meal_022,Tuna Rice Salad,lunch,480,32,52,14,"rice, tuna, cucumber, corn, lettuce","halal, high_protein, balanced",fish,medium,15,asian,easy
+meal_023,Chicken Soto Bowl,lunch,520,33,58,14,"rice, chicken, turmeric broth, cabbage, egg","halal, high_protein",egg,medium,35,indonesian,medium
+meal_024,Gado Gado Rice Plate,lunch,580,23,65,26,"rice, tofu, egg, vegetables, peanut sauce","halal, vegetarian","peanut, soy, egg",low,25,indonesian,medium
+meal_025,Chicken Caesar Wrap,lunch,540,36,42,24,"tortilla, chicken, lettuce, yogurt dressing","halal, high_protein","gluten, milk",medium,20,western,easy
+meal_026,Egg and Veggie Noodles,lunch,610,24,78,21,"noodles, egg, cabbage, carrot, soy sauce","halal, vegetarian","egg, gluten, soy",low,15,asian,easy
+meal_027,Shrimp Fried Rice,lunch,570,31,70,17,"rice, shrimp, egg, peas, soy sauce","halal, high_protein","shellfish, egg, soy",medium,20,asian,easy
+meal_028,Lentil Curry Rice,lunch,520,24,78,11,"rice, lentils, tomato, curry spices","halal, vegetarian, vegan, high_fiber",,low,35,indian,medium
+meal_029,Chicken Capcay Rice,lunch,510,34,58,13,"rice, chicken, broccoli, carrot, cabbage","halal, high_protein, balanced",,medium,25,indonesian,easy
+meal_030,Sardine Tomato Rice,lunch,530,29,62,18,"rice, sardine, tomato sauce, spinach","halal, high_protein",fish,low,15,indonesian,easy
+meal_031,Mushroom Tofu Bowl,lunch,450,21,55,15,"rice, tofu, mushroom, bok choy, garlic","halal, vegetarian, vegan",soy,low,20,asian,easy
+meal_032,Turkey Sandwich,lunch,470,32,45,16,"whole wheat bread, turkey, lettuce, tomato","halal, high_protein",gluten,medium,10,western,easy
+meal_033,Chicken Burrito Bowl,lunch,640,39,74,20,"rice, chicken, beans, corn, salsa","halal, high_protein, high_fiber",,medium,30,mexican,medium
+meal_034,Vegetable Pasta,lunch,560,18,86,16,"pasta, tomato, zucchini, mushroom, cheese","halal, vegetarian","gluten, milk",medium,25,italian,easy
+meal_035,Chicken Pasta Tomato,lunch,640,38,80,18,"pasta, chicken, tomato sauce, garlic","halal, high_protein",gluten,medium,30,italian,easy
+meal_036,Egg Tofu Rice Bento,lunch,540,26,66,18,"rice, egg, tofu, cucumber, carrot","halal, vegetarian, balanced","egg, soy",low,20,japanese,easy
+meal_037,Tofu Vegetable Soup,dinner,300,18,25,9,"tofu, carrot, cabbage, celery, garlic","halal, vegetarian, vegan, light",soy,low,20,indonesian,easy
+meal_038,Chicken Vegetable Soup,dinner,390,32,30,12,"chicken, carrot, potato, cabbage, celery","halal, high_protein, balanced",,medium,30,indonesian,easy
+meal_039,Grilled Chicken Sweet Potato,dinner,520,40,55,14,"chicken breast, sweet potato, spinach","halal, high_protein, balanced",,medium,35,western,medium
+meal_040,Salmon Rice Plate,dinner,610,42,58,22,"rice, salmon, broccoli, lemon","halal, high_protein",fish,high,25,japanese,medium
+meal_041,Egg Drop Vegetable Soup,dinner,280,16,22,12,"egg, corn, spinach, chicken broth","halal, light",egg,low,15,asian,easy
+meal_042,Tempeh Coconut Curry,dinner,560,27,55,25,"tempeh, coconut milk, potato, carrot","halal, vegetarian, high_protein","soy, coconut",low,30,indonesian,medium
+meal_043,Beef Vegetable Soup,dinner,480,36,32,22,"beef, carrot, potato, cabbage","halal, high_protein",,high,45,indonesian,medium
+meal_044,Chicken Satay Rice,dinner,680,42,72,24,"rice, chicken, peanut sauce, cucumber","halal, high_protein",peanut,medium,35,indonesian,medium
+meal_045,Vegetable Omelette,dinner,350,22,18,21,"egg, spinach, tomato, onion, cheese","halal, vegetarian, high_protein","egg, milk",low,15,western,easy
+meal_046,Chickpea Tomato Stew,dinner,430,20,62,12,"chickpeas, tomato, carrot, spinach","halal, vegetarian, vegan, high_fiber",,low,30,mediterranean,easy
+meal_047,Chicken Mushroom Rice,dinner,570,38,66,16,"rice, chicken, mushroom, garlic","halal, high_protein",,medium,25,asian,easy
+meal_048,Spicy Tofu Rice,dinner,510,24,62,18,"rice, tofu, chili, garlic, bok choy","halal, vegetarian, vegan",soy,low,20,asian,easy
+meal_049,Miso Soup with Rice,dinner,420,20,58,12,"rice, tofu, miso, seaweed, scallion","vegetarian, balanced",soy,medium,15,japanese,easy
+meal_050,Chicken Lentil Soup,dinner,500,39,48,13,"chicken, lentils, carrot, celery","halal, high_protein, high_fiber",,medium,40,mediterranean,medium
+meal_051,Baked Potato Tuna,dinner,470,31,52,15,"potato, tuna, yogurt, corn","halal, high_protein","fish, milk",medium,35,western,easy
+meal_052,Vegetable Fried Quinoa,dinner,480,18,64,17,"quinoa, egg, vegetables, soy sauce","halal, vegetarian","egg, soy",high,25,asian,medium
+meal_053,Garlic Shrimp Rice,dinner,540,34,61,17,"rice, shrimp, garlic, broccoli","halal, high_protein",shellfish,medium,20,asian,easy
+meal_054,Spinach Cheese Pasta,dinner,590,24,78,20,"pasta, spinach, cheese, milk","halal, vegetarian","gluten, milk",medium,25,italian,easy
+meal_055,Ayam Bakar Rice Plate,dinner,620,40,70,19,"rice, grilled chicken, cucumber, sambal","halal, high_protein",,medium,40,indonesian,medium
+meal_056,Sayur Asem Tempeh Rice,dinner,520,24,76,13,"rice, tempeh, tamarind soup, corn, long beans","halal, vegetarian",soy,low,35,indonesian,medium
+meal_057,Boiled Eggs,snack,155,13,1,11,egg,"halal, vegetarian, high_protein",egg,low,10,global,easy
+meal_058,Fruit Salad Yogurt,snack,220,9,38,4,"apple, banana, yogurt","halal, vegetarian",milk,low,5,global,easy
+meal_059,Roasted Chickpeas,snack,240,12,36,6,"chickpeas, paprika, salt","halal, vegetarian, vegan, high_fiber",,low,25,mediterranean,easy
+meal_060,Edamame Bowl,snack,190,17,14,8,"edamame, salt","halal, vegetarian, vegan, high_protein",soy,medium,8,japanese,easy
+meal_061,Banana Milk Smoothie,snack,260,10,46,5,"banana, milk, oats","halal, vegetarian",milk,low,5,global,easy
+meal_062,Apple Peanut Snack,snack,280,9,32,14,"apple, peanut butter","halal, vegetarian",peanut,low,3,global,easy
+meal_063,Tuna Crackers,snack,300,22,30,10,"tuna, crackers, cucumber","halal, high_protein","fish, gluten",medium,5,western,easy
+meal_064,Tempeh Chips,snack,270,15,24,13,"tempeh, tapioca flour, spices","halal, vegetarian",soy,low,20,indonesian,medium
+meal_065,Cucumber Hummus,snack,210,8,24,10,"cucumber, chickpeas, sesame paste","halal, vegetarian, vegan",sesame,medium,10,mediterranean,easy
+meal_066,Cheese Banana Toast,snack,330,13,42,12,"bread, banana, cheese","halal, vegetarian","gluten, milk",low,8,western,easy
+meal_067,Corn Cup,snack,210,6,36,6,"corn, butter, cheese","halal, vegetarian",milk,low,10,indonesian,easy
+meal_068,Chicken Lettuce Cups,snack,290,28,12,14,"chicken, lettuce, carrot, soy sauce","halal, high_protein",soy,medium,15,asian,easy
+meal_069,Overnight Oats Mango,breakfast,380,13,68,7,"oats, mango, milk, chia seeds","halal, vegetarian",milk,medium,5,western,easy
+meal_070,Rice Egg Spinach Bowl,breakfast,430,19,58,13,"rice, egg, spinach, garlic","halal, balanced",egg,low,15,asian,easy
+meal_071,Chicken Avocado Sandwich,lunch,610,38,50,26,"bread, chicken, avocado, lettuce","halal, high_protein",gluten,medium,15,western,easy
+meal_072,Red Bean Rice Bowl,lunch,500,20,82,8,"rice, red beans, tomato, corn","halal, vegetarian, vegan, high_fiber",,low,30,mexican,easy
+meal_073,Chicken Shawarma Rice,lunch,650,42,72,20,"rice, chicken, yogurt sauce, cucumber","halal, high_protein",milk,medium,30,middle_eastern,medium
+meal_074,Vegetable Udon Soup,dinner,460,16,76,10,"udon, mushroom, tofu, bok choy","vegetarian, balanced","gluten, soy",medium,20,japanese,easy
+meal_075,Chicken Egg Noodle Soup,dinner,580,36,70,16,"noodles, chicken, egg, bok choy","halal, high_protein","gluten, egg",medium,25,asian,easy
+meal_076,Simple Beef Rice Bowl,dinner,630,37,69,22,"rice, beef, onion, carrot","halal, high_protein",,high,25,asian,easy
+meal_077,Paneer Tomato Curry,dinner,540,26,42,30,"paneer, tomato, rice, spices","halal, vegetarian, high_protein",milk,medium,30,indian,medium
+meal_078,Banana Pancakes,breakfast,420,14,72,10,"banana, egg, flour, milk","halal, vegetarian","egg, gluten, milk",low,15,western,easy

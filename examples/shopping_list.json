@@ -1,0 +1,98 @@
+[
+  {
+    "ingredient": "rice",
+    "frequency": 14
+  },
+  {
+    "ingredient": "carrot",
+    "frequency": 13
+  },
+  {
+    "ingredient": "tempeh",
+    "frequency": 8
+  },
+  {
+    "ingredient": "soy sauce",
+    "frequency": 8
+  },
+  {
+    "ingredient": "tofu",
+    "frequency": 8
+  },
+  {
+    "ingredient": "cabbage",
+    "frequency": 8
+  },
+  {
+    "ingredient": "coconut milk",
+    "frequency": 7
+  },
+  {
+    "ingredient": "egg",
+    "frequency": 6
+  },
+  {
+    "ingredient": "cucumber",
+    "frequency": 5
+  },
+  {
+    "ingredient": "sambal",
+    "frequency": 4
+  },
+  {
+    "ingredient": "celery",
+    "frequency": 4
+  },
+  {
+    "ingredient": "garlic",
+    "frequency": 4
+  },
+  {
+    "ingredient": "corn",
+    "frequency": 4
+  },
+  {
+    "ingredient": "butter",
+    "frequency": 4
+  },
+  {
+    "ingredient": "cheese",
+    "frequency": 4
+  },
+  {
+    "ingredient": "tapioca flour",
+    "frequency": 3
+  },
+  {
+    "ingredient": "spices",
+    "frequency": 3
+  },
+  {
+    "ingredient": "potato",
+    "frequency": 3
+  },
+  {
+    "ingredient": "scallion",
+    "frequency": 2
+  },
+  {
+    "ingredient": "sardine",
+    "frequency": 2
+  },
+  {
+    "ingredient": "tomato sauce",
+    "frequency": 2
+  },
+  {
+    "ingredient": "spinach",
+    "frequency": 2
+  },
+  {
+    "ingredient": "vegetables",
+    "frequency": 1
+  },
+  {
+    "ingredient": "tomato",
+    "frequency": 1
+  }
+]

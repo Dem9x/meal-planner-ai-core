@@ -1,0 +1,666 @@
+{
+  "user_profile": {
+    "diet": "halal",
+    "budget": "low",
+    "cuisine": "indonesian",
+    "goal": "high_protein balanced",
+    "difficulty": "easy",
+    "allergies": [
+      "peanut"
+    ],
+    "max_cooking_time": 30
+  },
+  "days": [
+    {
+      "meals": {
+        "breakfast": {
+          "id": "meal_012",
+          "name": "Nasi Uduk Egg Plate",
+          "meal_type": "breakfast",
+          "calories": 560,
+          "protein": 19,
+          "carbs": 72,
+          "fat": 22,
+          "ingredients": "rice, coconut milk, egg, cucumber, sambal",
+          "diet_tags": "halal, balanced",
+          "allergen_tags": "egg, coconut",
+          "budget_level": "low",
+          "cooking_time": 25,
+          "cuisine": "indonesian",
+          "difficulty": "medium",
+          "score": 0.4498
+        },
+        "lunch": {
+          "id": "meal_019",
+          "name": "Tempeh Stir Fry Rice",
+          "meal_type": "lunch",
+          "calories": 500,
+          "protein": 25,
+          "carbs": 62,
+          "fat": 16,
+          "ingredients": "rice, tempeh, vegetables, soy sauce",
+          "diet_tags": "halal, vegetarian, high_protein",
+          "allergen_tags": "soy",
+          "budget_level": "low",
+          "cooking_time": 20,
+          "cuisine": "indonesian",
+          "difficulty": "easy",
+          "score": 0.4602
+        },
+        "dinner": {
+          "id": "meal_037",
+          "name": "Tofu Vegetable Soup",
+          "meal_type": "dinner",
+          "calories": 300,
+          "protein": 18,
+          "carbs": 25,
+          "fat": 9,
+          "ingredients": "tofu, carrot, cabbage, celery, garlic",
+          "diet_tags": "halal, vegetarian, vegan, light",
+          "allergen_tags": "soy",
+          "budget_level": "low",
+          "cooking_time": 20,
+          "cuisine": "indonesian",
+          "difficulty": "easy",
+          "score": 0.3219
+        },
+        "snack": {
+          "id": "meal_064",
+          "name": "Tempeh Chips",
+          "meal_type": "snack",
+          "calories": 270,
+          "protein": 15,
+          "carbs": 24,
+          "fat": 13,
+          "ingredients": "tempeh, tapioca flour, spices",
+          "diet_tags": "halal, vegetarian",
+          "allergen_tags": "soy",
+          "budget_level": "low",
+          "cooking_time": 20,
+          "cuisine": "indonesian",
+          "difficulty": "medium",
+          "score": 0.3461
+        }
+      },
+      "daily_total": {
+        "calories": 1630,
+        "protein": 77,
+        "carbs": 183,
+        "fat": 60
+      },
+      "day": "Monday"
+    },
+    {
+      "meals": {
+        "breakfast": {
+          "id": "meal_003",
+          "name": "Egg Fried Rice Breakfast",
+          "meal_type": "breakfast",
+          "calories": 480,
+          "protein": 18,
+          "carbs": 62,
+          "fat": 16,
+          "ingredients": "rice, egg, carrot, scallion, soy sauce",
+          "diet_tags": "halal, balanced",
+          "allergen_tags": "egg, soy",
+          "budget_level": "low",
+          "cooking_time": 15,
+          "cuisine": "indonesian",
+          "difficulty": "easy",
+          "score": 0.5403
+        },
+        "lunch": {
+          "id": "meal_030",
+          "name": "Sardine Tomato Rice",
+          "meal_type": "lunch",
+          "calories": 530,
+          "protein": 29,
+          "carbs": 62,
+          "fat": 18,
+          "ingredients": "rice, sardine, tomato sauce, spinach",
+          "diet_tags": "halal, high_protein",
+          "allergen_tags": "fish",
+          "budget_level": "low",
+          "cooking_time": 15,
+          "cuisine": "indonesian",
+          "difficulty": "easy",
+          "score": 0.4601
+        },
+        "dinner": {
+          "id": "meal_042",
+          "name": "Tempeh Coconut Curry",
+          "meal_type": "dinner",
+          "calories": 560,
+          "protein": 27,
+          "carbs": 55,
+          "fat": 25,
+          "ingredients": "tempeh, coconut milk, potato, carrot",
+          "diet_tags": "halal, vegetarian, high_protein",
+          "allergen_tags": "soy, coconut",
+          "budget_level": "low",
+          "cooking_time": 30,
+          "cuisine": "indonesian",
+          "difficulty": "medium",
+          "score": 0.3828
+        },
+        "snack": {
+          "id": "meal_067",
+          "name": "Corn Cup",
+          "meal_type": "snack",
+          "calories": 210,
+          "protein": 6,
+          "carbs": 36,
+          "fat": 6,
+          "ingredients": "corn, butter, cheese",
+          "diet_tags": "halal, vegetarian",
+          "allergen_tags": "milk",
+          "budget_level": "low",
+          "cooking_time": 10,
+          "cuisine": "indonesian",
+          "difficulty": "easy",
+          "score": 0.4739
+        }
+      },
+      "daily_total": {
+        "calories": 1780,
+        "protein": 80,
+        "carbs": 215,
+        "fat": 65
+      },
+      "day": "Tuesday"
+    },
+    {
+      "meals": {
+        "breakfast": {
+          "id": "meal_004",
+          "name": "Tempeh Breakfast Bowl",
+          "meal_type": "breakfast",
+          "calories": 430,
+          "protein": 24,
+          "carbs": 52,
+          "fat": 13,
+          "ingredients": "rice, tempeh, cucumber, tomato, soy sauce",
+          "diet_tags": "halal, vegetarian, high_protein",
+          "allergen_tags": "soy",
+          "budget_level": "low",
+          "cooking_time": 18,
+          "cuisine": "indonesian",
+          "difficulty": "easy",
+          "score": 0.4613
+        },
+        "lunch": {
+          "id": "meal_020",
+          "name": "Tofu Vegetable Rice Bowl",
+          "meal_type": "lunch",
+          "calories": 460,
+          "protein": 22,
+          "carbs": 58,
+          "fat": 14,
+          "ingredients": "rice, tofu, cabbage, carrot, soy sauce",
+          "diet_tags": "halal, vegetarian, vegan, balanced",
+          "allergen_tags": "soy",
+          "budget_level": "low",
+          "cooking_time": 20,
+          "cuisine": "indonesian",
+          "difficulty": "easy",
+          "score": 0.4918
+        },
+        "dinner": {
+          "id": "meal_042",
+          "name": "Tempeh Coconut Curry",
+          "meal_type": "dinner",
+          "calories": 560,
+          "protein": 27,
+          "carbs": 55,
+          "fat": 25,
+          "ingredients": "tempeh, coconut milk, potato, carrot",
+          "diet_tags": "halal, vegetarian, high_protein",
+          "allergen_tags": "soy, coconut",
+          "budget_level": "low",
+          "cooking_time": 30,
+          "cuisine": "indonesian",
+          "difficulty": "medium",
+          "score": 0.3828
+        },
+        "snack": {
+          "id": "meal_064",
+          "name": "Tempeh Chips",
+          "meal_type": "snack",
+          "calories": 270,
+          "protein": 15,
+          "carbs": 24,
+          "fat": 13,
+          "ingredients": "tempeh, tapioca flour, spices",
+          "diet_tags": "halal, vegetarian",
+          "allergen_tags": "soy",
+          "budget_level": "low",
+          "cooking_time": 20,
+          "cuisine": "indonesian",
+          "difficulty": "medium",
+          "score": 0.3461
+        }
+      },
+      "daily_total": {
+        "calories": 1720,
+        "protein": 88,
+        "carbs": 189,
+        "fat": 65
+      },
+      "day": "Wednesday"
+    },
+    {
+      "meals": {
+        "breakfast": {
+          "id": "meal_003",
+          "name": "Egg Fried Rice Breakfast",
+          "meal_type": "breakfast",
+          "calories": 480,
+          "protein": 18,
+          "carbs": 62,
+          "fat": 16,
+          "ingredients": "rice, egg, carrot, scallion, soy sauce",
+          "diet_tags": "halal, balanced",
+          "allergen_tags": "egg, soy",
+          "budget_level": "low",
+          "cooking_time": 15,
+          "cuisine": "indonesian",
+          "difficulty": "easy",
+          "score": 0.5403
+        },
+        "lunch": {
+          "id": "meal_020",
+          "name": "Tofu Vegetable Rice Bowl",
+          "meal_type": "lunch",
+          "calories": 460,
+          "protein": 22,
+          "carbs": 58,
+          "fat": 14,
+          "ingredients": "rice, tofu, cabbage, carrot, soy sauce",
+          "diet_tags": "halal, vegetarian, vegan, balanced",
+          "allergen_tags": "soy",
+          "budget_level": "low",
+          "cooking_time": 20,
+          "cuisine": "indonesian",
+          "difficulty": "easy",
+          "score": 0.4918
+        },
+        "dinner": {
+          "id": "meal_042",
+          "name": "Tempeh Coconut Curry",
+          "meal_type": "dinner",
+          "calories": 560,
+          "protein": 27,
+          "carbs": 55,
+          "fat": 25,
+          "ingredients": "tempeh, coconut milk, potato, carrot",
+          "diet_tags": "halal, vegetarian, high_protein",
+          "allergen_tags": "soy, coconut",
+          "budget_level": "low",
+          "cooking_time": 30,
+          "cuisine": "indonesian",
+          "difficulty": "medium",
+          "score": 0.3828
+        },
+        "snack": {
+          "id": "meal_067",
+          "name": "Corn Cup",
+          "meal_type": "snack",
+          "calories": 210,
+          "protein": 6,
+          "carbs": 36,
+          "fat": 6,
+          "ingredients": "corn, butter, cheese",
+          "diet_tags": "halal, vegetarian",
+          "allergen_tags": "milk",
+          "budget_level": "low",
+          "cooking_time": 10,
+          "cuisine": "indonesian",
+          "difficulty": "easy",
+          "score": 0.4739
+        }
+      },
+      "daily_total": {
+        "calories": 1710,
+        "protein": 73,
+        "carbs": 211,
+        "fat": 61
+      },
+      "day": "Thursday"
+    },
+    {
+      "meals": {
+        "breakfast": {
+          "id": "meal_012",
+          "name": "Nasi Uduk Egg Plate",
+          "meal_type": "breakfast",
+          "calories": 560,
+          "protein": 19,
+          "carbs": 72,
+          "fat": 22,
+          "ingredients": "rice, coconut milk, egg, cucumber, sambal",
+          "diet_tags": "halal, balanced",
+          "allergen_tags": "egg, coconut",
+          "budget_level": "low",
+          "cooking_time": 25,
+          "cuisine": "indonesian",
+          "difficulty": "medium",
+          "score": 0.4498
+        },
+        "lunch": {
+          "id": "meal_020",
+          "name": "Tofu Vegetable Rice Bowl",
+          "meal_type": "lunch",
+          "calories": 460,
+          "protein": 22,
+          "carbs": 58,
+          "fat": 14,
+          "ingredients": "rice, tofu, cabbage, carrot, soy sauce",
+          "diet_tags": "halal, vegetarian, vegan, balanced",
+          "allergen_tags": "soy",
+          "budget_level": "low",
+          "cooking_time": 20,
+          "cuisine": "indonesian",
+          "difficulty": "easy",
+          "score": 0.4918
+        },
+        "dinner": {
+          "id": "meal_037",
+          "name": "Tofu Vegetable Soup",
+          "meal_type": "dinner",
+          "calories": 300,
+          "protein": 18,
+          "carbs": 25,
+          "fat": 9,
+          "ingredients": "tofu, carrot, cabbage, celery, garlic",
+          "diet_tags": "halal, vegetarian, vegan, light",
+          "allergen_tags": "soy",
+          "budget_level": "low",
+          "cooking_time": 20,
+          "cuisine": "indonesian",
+          "difficulty": "easy",
+          "score": 0.3219
+        },
+        "snack": {
+          "id": "meal_064",
+          "name": "Tempeh Chips",
+          "meal_type": "snack",
+          "calories": 270,
+          "protein": 15,
+          "carbs": 24,
+          "fat": 13,
+          "ingredients": "tempeh, tapioca flour, spices",
+          "diet_tags": "halal, vegetarian",
+          "allergen_tags": "soy",
+          "budget_level": "low",
+          "cooking_time": 20,
+          "cuisine": "indonesian",
+          "difficulty": "medium",
+          "score": 0.3461
+        }
+      },
+      "daily_total": {
+        "calories": 1590,
+        "protein": 74,
+        "carbs": 179,
+        "fat": 58
+      },
+      "day": "Friday"
+    },
+    {
+      "meals": {
+        "breakfast": {
+          "id": "meal_012",
+          "name": "Nasi Uduk Egg Plate",
+          "meal_type": "breakfast",
+          "calories": 560,
+          "protein": 19,
+          "carbs": 72,
+          "fat": 22,
+          "ingredients": "rice, coconut milk, egg, cucumber, sambal",
+          "diet_tags": "halal, balanced",
+          "allergen_tags": "egg, coconut",
+          "budget_level": "low",
+          "cooking_time": 25,
+          "cuisine": "indonesian",
+          "difficulty": "medium",
+          "score": 0.4498
+        },
+        "lunch": {
+          "id": "meal_020",
+          "name": "Tofu Vegetable Rice Bowl",
+          "meal_type": "lunch",
+          "calories": 460,
+          "protein": 22,
+          "carbs": 58,
+          "fat": 14,
+          "ingredients": "rice, tofu, cabbage, carrot, soy sauce",
+          "diet_tags": "halal, vegetarian, vegan, balanced",
+          "allergen_tags": "soy",
+          "budget_level": "low",
+          "cooking_time": 20,
+          "cuisine": "indonesian",
+          "difficulty": "easy",
+          "score": 0.4918
+        },
+        "dinner": {
+          "id": "meal_037",
+          "name": "Tofu Vegetable Soup",
+          "meal_type": "dinner",
+          "calories": 300,
+          "protein": 18,
+          "carbs": 25,
+          "fat": 9,
+          "ingredients": "tofu, carrot, cabbage, celery, garlic",
+          "diet_tags": "halal, vegetarian, vegan, light",
+          "allergen_tags": "soy",
+          "budget_level": "low",
+          "cooking_time": 20,
+          "cuisine": "indonesian",
+          "difficulty": "easy",
+          "score": 0.3219
+        },
+        "snack": {
+          "id": "meal_067",
+          "name": "Corn Cup",
+          "meal_type": "snack",
+          "calories": 210,
+          "protein": 6,
+          "carbs": 36,
+          "fat": 6,
+          "ingredients": "corn, butter, cheese",
+          "diet_tags": "halal, vegetarian",
+          "allergen_tags": "milk",
+          "budget_level": "low",
+          "cooking_time": 10,
+          "cuisine": "indonesian",
+          "difficulty": "easy",
+          "score": 0.4739
+        }
+      },
+      "daily_total": {
+        "calories": 1530,
+        "protein": 65,
+        "carbs": 191,
+        "fat": 51
+      },
+      "day": "Saturday"
+    },
+    {
+      "meals": {
+        "breakfast": {
+          "id": "meal_012",
+          "name": "Nasi Uduk Egg Plate",
+          "meal_type": "breakfast",
+          "calories": 560,
+          "protein": 19,
+          "carbs": 72,
+          "fat": 22,
+          "ingredients": "rice, coconut milk, egg, cucumber, sambal",
+          "diet_tags": "halal, balanced",
+          "allergen_tags": "egg, coconut",
+          "budget_level": "low",
+          "cooking_time": 25,
+          "cuisine": "indonesian",
+          "difficulty": "medium",
+          "score": 0.4498
+        },
+        "lunch": {
+          "id": "meal_030",
+          "name": "Sardine Tomato Rice",
+          "meal_type": "lunch",
+          "calories": 530,
+          "protein": 29,
+          "carbs": 62,
+          "fat": 18,
+          "ingredients": "rice, sardine, tomato sauce, spinach",
+          "diet_tags": "halal, high_protein",
+          "allergen_tags": "fish",
+          "budget_level": "low",
+          "cooking_time": 15,
+          "cuisine": "indonesian",
+          "difficulty": "easy",
+          "score": 0.4601
+        },
+        "dinner": {
+          "id": "meal_037",
+          "name": "Tofu Vegetable Soup",
+          "meal_type": "dinner",
+          "calories": 300,
+          "protein": 18,
+          "carbs": 25,
+          "fat": 9,
+          "ingredients": "tofu, carrot, cabbage, celery, garlic",
+          "diet_tags": "halal, vegetarian, vegan, light",
+          "allergen_tags": "soy",
+          "budget_level": "low",
+          "cooking_time": 20,
+          "cuisine": "indonesian",
+          "difficulty": "easy",
+          "score": 0.3219
+        },
+        "snack": {
+          "id": "meal_067",
+          "name": "Corn Cup",
+          "meal_type": "snack",
+          "calories": 210,
+          "protein": 6,
+          "carbs": 36,
+          "fat": 6,
+          "ingredients": "corn, butter, cheese",
+          "diet_tags": "halal, vegetarian",
+          "allergen_tags": "milk",
+          "budget_level": "low",
+          "cooking_time": 10,
+          "cuisine": "indonesian",
+          "difficulty": "easy",
+          "score": 0.4739
+        }
+      },
+      "daily_total": {
+        "calories": 1600,
+        "protein": 72,
+        "carbs": 195,
+        "fat": 55
+      },
+      "day": "Sunday"
+    }
+  ],
+  "shopping_list": [
+    {
+      "ingredient": "rice",
+      "frequency": 14
+    },
+    {
+      "ingredient": "carrot",
+      "frequency": 13
+    },
+    {
+      "ingredient": "tempeh",
+      "frequency": 8
+    },
+    {
+      "ingredient": "soy sauce",
+      "frequency": 8
+    },
+    {
+      "ingredient": "tofu",
+      "frequency": 8
+    },
+    {
+      "ingredient": "cabbage",
+      "frequency": 8
+    },
+    {
+      "ingredient": "coconut milk",
+      "frequency": 7
+    },
+    {
+      "ingredient": "egg",
+      "frequency": 6
+    },
+    {
+      "ingredient": "cucumber",
+      "frequency": 5
+    },
+    {
+      "ingredient": "sambal",
+      "frequency": 4
+    },
+    {
+      "ingredient": "celery",
+      "frequency": 4
+    },
+    {
+      "ingredient": "garlic",
+      "frequency": 4
+    },
+    {
+      "ingredient": "corn",
+      "frequency": 4
+    },
+    {
+      "ingredient": "butter",
+      "frequency": 4
+    },
+    {
+      "ingredient": "cheese",
+      "frequency": 4
+    },
+    {
+      "ingredient": "tapioca flour",
+      "frequency": 3
+    },
+    {
+      "ingredient": "spices",
+      "frequency": 3
+    },
+    {
+      "ingredient": "potato",
+      "frequency": 3
+    },
+    {
+      "ingredient": "scallion",
+      "frequency": 2
+    },
+    {
+      "ingredient": "sardine",
+      "frequency": 2
+    },
+    {
+      "ingredient": "tomato sauce",
+      "frequency": 2
+    },
+    {
+      "ingredient": "spinach",
+      "frequency": 2
+    },
+    {
+      "ingredient": "vegetables",
+      "frequency": 1
+    },
+    {
+      "ingredient": "tomato",
+      "frequency": 1
+    }
+  ]
+}
