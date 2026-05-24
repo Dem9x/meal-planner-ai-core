@@ -1,8 +1,12 @@
 import joblib
 from sklearn.metrics.pairwise import cosine_similarity
+from pathlib import Path
 
-vectorizer = joblib.load("vectorizer.pkl")
-df = joblib.load("meals_database.pkl")
+ROOT_DIR = Path(__file__).resolve().parent.parent
+MODEL_DIR = ROOT_DIR / "model"
+
+vectorizer = joblib.load(MODEL_DIR / "vectorizer.pkl")
+df = joblib.load(MODEL_DIR / "meals_database.pkl")
 
 
 def filter_meals(

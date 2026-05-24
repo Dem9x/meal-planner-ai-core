@@ -1,0 +1,301 @@
+id,name,meal_type,calories,protein,carbs,fat,ingredients,diet_tags,allergen_tags,budget_level,cooking_time,cuisine,difficulty
+meal_001,Nasi Telur Kecap,breakfast,430,18,58,13,"rice, egg, sweet soy sauce, cucumber","halal, vegetarian, balanced, high_protein, budget_friendly","soy, egg",low,10,indonesian,easy
+meal_002,Nasi Telur Dadar,breakfast,460,20,60,15,"rice, egg, scallion, garlic","halal, vegetarian, balanced, high_protein, budget_friendly",egg,low,12,indonesian,easy
+meal_003,Nasi Uduk Telur Rebus,breakfast,560,19,72,22,"rice, coconut milk, egg, cucumber","halal, vegetarian, balanced, high_protein, budget_friendly","egg, milk, coconut",low,25,indonesian,easy
+meal_004,Nasi Kuning Telur,breakfast,540,20,70,20,"rice, coconut milk, turmeric, egg, cucumber","halal, vegetarian, balanced, high_protein, budget_friendly","egg, milk, coconut",low,25,indonesian,easy
+meal_005,Bubur Ayam Sederhana,breakfast,420,26,55,8,"rice, chicken, ginger, scallion","halal, balanced, high_protein",,medium,30,indonesian,easy
+meal_006,Bubur Telur Kampung,breakfast,390,18,56,9,"rice, egg, scallion, chicken broth","halal, balanced, high_protein, budget_friendly",egg,low,25,indonesian,easy
+meal_007,Lontong Sayur Telur,breakfast,590,20,78,22,"rice cake, coconut milk, egg, chayote","halal, vegetarian, balanced, high_protein","egg, milk, coconut",medium,30,indonesian,easy
+meal_008,Mie Telur Sayur,breakfast,520,22,72,16,"noodles, egg, cabbage, carrot, soy sauce","halal, vegetarian, balanced, high_protein, high_fiber, budget_friendly","soy, egg, gluten",low,15,indonesian,easy
+meal_009,Mie Kuah Telur Bayam,breakfast,500,21,68,15,"noodles, egg, spinach, garlic","halal, vegetarian, balanced, high_protein, high_fiber, budget_friendly","egg, gluten",low,15,indonesian,easy
+meal_010,Omelet Sayur Nasi,breakfast,480,23,55,18,"rice, egg, spinach, carrot, onion","halal, vegetarian, balanced, high_protein, high_fiber, budget_friendly",egg,low,15,indonesian,easy
+meal_011,Roti Telur Kecap,breakfast,420,17,48,16,"bread, egg, sweet soy sauce, cucumber","halal, vegetarian, balanced, high_protein, budget_friendly","soy, egg, gluten",low,10,western,easy
+meal_012,Roti Bakar Pisang,breakfast,380,10,60,10,"bread, banana, margarine","halal, vegetarian, vegan, balanced, budget_friendly",gluten,low,8,western,easy
+meal_013,Oat Pisang Susu,breakfast,350,11,63,7,"oats, banana, milk","halal, vegetarian, balanced, budget_friendly",milk,low,10,western,easy
+meal_014,Smoothie Pisang Oat,breakfast,330,10,60,6,"banana, oats, milk","halal, vegetarian, balanced, budget_friendly",milk,low,5,global,easy
+meal_015,Ubi Rebus Telur,breakfast,390,16,56,10,"sweet potato, egg","halal, vegetarian, balanced, high_protein, budget_friendly",egg,low,20,indonesian,easy
+meal_016,Singkong Rebus Kelapa,breakfast,360,5,78,4,"cassava, coconut","halal, vegetarian, vegan, balanced, budget_friendly",coconut,low,25,indonesian,easy
+meal_017,Jagung Rebus Telur,breakfast,380,15,55,10,"corn, egg","halal, vegetarian, balanced, high_protein, high_fiber, budget_friendly",egg,low,15,indonesian,easy
+meal_018,Nasi Tempe Kecap,breakfast,480,22,64,15,"rice, tempeh, sweet soy sauce, cucumber","halal, vegetarian, vegan, balanced, high_protein, budget_friendly",soy,low,15,indonesian,easy
+meal_019,Nasi Tahu Telur,breakfast,500,26,58,18,"rice, tofu, egg, scallion","halal, vegetarian, balanced, high_protein, budget_friendly","soy, egg",low,15,indonesian,easy
+meal_020,Tahu Orak Arik Sayur,breakfast,340,22,26,16,"tofu, egg, carrot, cabbage, soy sauce","halal, vegetarian, balanced, high_protein, high_fiber, budget_friendly","soy, egg",low,15,indonesian,easy
+meal_021,Tempe Orek Sarapan,breakfast,420,24,50,14,"rice, tempeh, sweet soy sauce, garlic","halal, vegetarian, vegan, balanced, high_protein, budget_friendly",soy,low,18,indonesian,easy
+meal_022,Nasi Goreng Telur Kampung,breakfast,560,21,74,19,"rice, egg, garlic, sweet soy sauce, scallion","halal, vegetarian, balanced, high_protein, budget_friendly","soy, egg",low,15,indonesian,easy
+meal_023,Nasi Goreng Teri,breakfast,570,24,76,18,"rice, anchovy, egg, garlic, chili","halal, vegetarian, balanced, high_protein","egg, fish",medium,18,indonesian,easy
+meal_024,Bubur Kacang Hijau,breakfast,360,13,64,7,"mung beans, coconut milk, palm sugar","halal, vegetarian, balanced, high_fiber, budget_friendly","milk, coconut",low,35,indonesian,easy
+meal_025,Bubur Ketan Hitam,breakfast,390,8,76,7,"black glutinous rice, coconut milk, palm sugar","halal, vegetarian, balanced, budget_friendly","milk, coconut",low,35,indonesian,easy
+meal_026,Pisang Kukus Oat,breakfast,300,8,58,4,"banana, oats, coconut","halal, vegetarian, vegan, balanced, budget_friendly",coconut,low,15,indonesian,easy
+meal_027,Telur Rebus Nasi Hangat,breakfast,420,18,58,12,"rice, egg, cucumber","halal, vegetarian, balanced, high_protein, budget_friendly",egg,low,12,indonesian,easy
+meal_028,Telur Ceplok Sambal Nasi,breakfast,470,18,60,17,"rice, egg, chili, tomato","halal, vegetarian, balanced, high_protein, budget_friendly",egg,low,12,indonesian,easy
+meal_029,Nasi Bayam Telur,breakfast,450,20,58,14,"rice, egg, spinach, garlic","halal, vegetarian, balanced, high_protein, high_fiber, budget_friendly",egg,low,15,indonesian,easy
+meal_030,Nasi Jagung Telur,breakfast,430,17,62,11,"corn rice, egg, cucumber","halal, vegetarian, balanced, high_protein, high_fiber, budget_friendly",egg,low,15,indonesian,easy
+meal_031,Bubur Tahu Ayam,breakfast,430,29,52,10,"rice, tofu, chicken, scallion","halal, balanced, high_protein",soy,medium,30,indonesian,easy
+meal_032,Mie Goreng Sayur Telur,breakfast,590,23,78,20,"noodles, egg, cabbage, carrot, soy sauce","halal, vegetarian, balanced, high_protein, high_fiber, budget_friendly","soy, egg, gluten",low,18,indonesian,easy
+meal_033,Kwetiau Telur Sayur,breakfast,610,24,84,18,"flat rice noodles, egg, cabbage, carrot, soy sauce","halal, vegetarian, balanced, high_protein, high_fiber","soy, egg, gluten",medium,20,chinese_indonesian,easy
+meal_034,Nasi Uduk Tempe,breakfast,540,23,74,18,"rice, coconut milk, tempeh, cucumber","halal, vegetarian, balanced, high_protein, budget_friendly","soy, milk, coconut",low,25,indonesian,easy
+meal_035,Nasi Kuning Tempe Orek,breakfast,560,24,76,18,"rice, coconut milk, turmeric, tempeh, sweet soy sauce","halal, vegetarian, balanced, high_protein, budget_friendly","soy, milk, coconut",low,25,indonesian,easy
+meal_036,Bubur Ayam Wortel,breakfast,430,27,56,9,"rice, chicken, carrot, ginger","halal, balanced, high_protein, high_fiber",,medium,30,indonesian,easy
+meal_037,Bubur Tahu Sayur,breakfast,340,18,48,7,"rice, tofu, spinach, carrot","halal, vegetarian, vegan, balanced, high_protein, high_fiber, budget_friendly",soy,low,25,indonesian,easy
+meal_038,Telur Gulung Nasi,breakfast,430,19,58,13,"rice, egg, scallion","halal, vegetarian, balanced, high_protein, budget_friendly",egg,low,10,indonesian,easy
+meal_039,Tumis Telur Kol Nasi,breakfast,470,20,62,14,"rice, egg, cabbage, garlic","halal, vegetarian, balanced, high_protein, high_fiber, budget_friendly",egg,low,15,indonesian,easy
+meal_040,Tumis Tahu Bayam Nasi,breakfast,430,21,58,11,"rice, tofu, spinach, garlic","halal, vegetarian, vegan, balanced, high_protein, high_fiber, budget_friendly",soy,low,15,indonesian,easy
+meal_041,Tempe Goreng Nasi Timun,breakfast,500,23,62,18,"rice, tempeh, cucumber, garlic","halal, vegetarian, vegan, balanced, high_protein, budget_friendly",soy,low,15,indonesian,easy
+meal_042,Tahu Kukus Telur,breakfast,360,24,25,18,"tofu, egg, scallion, soy sauce","halal, vegetarian, balanced, high_protein, budget_friendly","soy, egg",low,18,indonesian,easy
+meal_043,Roti Keju Telur,breakfast,520,24,45,26,"bread, egg, cheese","halal, vegetarian, balanced, high_protein","egg, gluten, milk",medium,12,western,easy
+meal_044,Roti Selai Pisang,breakfast,350,9,64,7,"bread, banana, peanut butter","halal, vegetarian, vegan, balanced, budget_friendly","peanut, gluten",low,6,western,easy
+meal_045,Oat Apel Kayu Manis,breakfast,340,9,62,7,"oats, apple, milk, cinnamon","halal, vegetarian, balanced, budget_friendly",milk,low,10,western,easy
+meal_046,Oat Mangga Yogurt,breakfast,380,14,65,7,"oats, mango, yogurt","halal, vegetarian, balanced",milk,medium,8,western,easy
+meal_047,Nasi Ayam Suwir Pagi,breakfast,520,33,62,14,"rice, chicken, garlic, sweet soy sauce","halal, balanced, high_protein",soy,medium,20,indonesian,easy
+meal_048,Soto Ayam Sarapan,breakfast,480,30,52,14,"rice, chicken, turmeric broth, cabbage","halal, balanced, high_protein, high_fiber",,medium,30,indonesian,easy
+meal_049,Soto Tahu Sarapan,breakfast,390,20,48,12,"rice, tofu, turmeric broth, cabbage","halal, vegetarian, vegan, balanced, high_protein, high_fiber, budget_friendly",soy,low,25,indonesian,easy
+meal_050,Capcay Telur Pagi,breakfast,430,22,48,16,"rice, egg, cabbage, carrot, broccoli","halal, vegetarian, balanced, high_protein, high_fiber, budget_friendly",egg,low,20,chinese_indonesian,easy
+meal_051,Nasi Pecel Telur,breakfast,560,22,70,22,"rice, egg, vegetables, peanut sauce","halal, vegetarian, balanced, high_protein, high_fiber, budget_friendly","egg, peanut",low,20,indonesian,easy
+meal_052,Nasi Sayur Bening Telur,breakfast,450,20,58,12,"rice, egg, spinach, corn","halal, vegetarian, balanced, high_protein, high_fiber, budget_friendly",egg,low,20,indonesian,easy
+meal_053,Nasi Tim Ayam Sederhana,breakfast,480,32,58,12,"rice, chicken, carrot, ginger","halal, balanced, high_protein, high_fiber",,medium,35,indonesian,easy
+meal_054,Nasi Tim Tahu,breakfast,380,18,52,8,"rice, tofu, carrot, ginger","halal, vegetarian, vegan, balanced, high_protein, high_fiber, budget_friendly",soy,low,30,indonesian,easy
+meal_055,Perkedel Tahu Sarapan,breakfast,410,20,42,18,"tofu, egg, flour, scallion","halal, vegetarian, balanced, high_protein, budget_friendly","soy, egg, gluten",low,20,indonesian,easy
+meal_056,Bakwan Jagung Nasi,breakfast,520,14,78,16,"rice, corn, flour, carrot, cabbage","halal, vegetarian, vegan, balanced, high_fiber, budget_friendly",gluten,low,25,indonesian,easy
+meal_057,Nasi Bakar Tempe,breakfast,560,23,72,19,"rice, tempeh, banana leaf, sweet soy sauce","halal, vegetarian, vegan, balanced, high_protein, budget_friendly",soy,low,30,indonesian,easy
+meal_058,Nasi Bakar Ayam,breakfast,620,35,72,20,"rice, chicken, banana leaf, garlic","halal, balanced, high_protein",,medium,35,indonesian,easy
+meal_059,Lupis Kelapa,breakfast,330,6,68,6,"glutinous rice, coconut, palm sugar","halal, vegetarian, vegan, balanced, budget_friendly",coconut,low,30,indonesian,easy
+meal_060,Ketan Pisang Kukus,breakfast,360,7,72,6,"glutinous rice, banana, coconut","halal, vegetarian, vegan, balanced, budget_friendly",coconut,low,30,indonesian,easy
+meal_061,Gado Gado Mini Pagi,breakfast,480,20,50,22,"tofu, egg, vegetables, peanut sauce","halal, vegetarian, balanced, high_protein, high_fiber, budget_friendly","soy, egg, peanut",low,20,indonesian,easy
+meal_062,Nasi Telur Tomat,breakfast,440,18,58,13,"rice, egg, tomato, garlic","halal, vegetarian, balanced, high_protein, budget_friendly",egg,low,12,indonesian,easy
+meal_063,Nasi Tempe Sambal Matah,breakfast,500,23,62,18,"rice, tempeh, chili, shallot, lemongrass","halal, vegetarian, vegan, balanced, high_protein, budget_friendly",soy,low,18,indonesian,easy
+meal_064,Nasi Tahu Cabe Garam Pagi,breakfast,470,21,55,16,"rice, tofu, chili, garlic","halal, vegetarian, vegan, balanced, high_protein, budget_friendly",soy,low,15,indonesian,easy
+meal_065,Roti Tahu Scramble,breakfast,390,18,42,15,"bread, tofu, turmeric, tomato","halal, vegetarian, vegan, balanced, high_protein, budget_friendly","soy, gluten",low,12,western,easy
+meal_066,Telur Kukus Sayur,breakfast,320,19,20,16,"egg, spinach, carrot, scallion","halal, vegetarian, balanced, high_protein, high_fiber, budget_friendly",egg,low,18,indonesian,easy
+meal_067,Sup Jagung Telur Pagi,breakfast,310,15,35,10,"corn, egg, chicken broth, scallion","halal, balanced, high_protein, high_fiber, budget_friendly",egg,low,15,asian,easy
+meal_068,Nasi Sup Tahu,breakfast,400,18,55,9,"rice, tofu, carrot, cabbage","halal, vegetarian, vegan, balanced, high_protein, high_fiber, budget_friendly",soy,low,20,indonesian,easy
+meal_069,Nasi Sup Ayam Pagi,breakfast,480,31,58,12,"rice, chicken, carrot, cabbage","halal, balanced, high_protein, high_fiber",,medium,25,indonesian,easy
+meal_070,Bubur Jagung Manis,breakfast,330,8,65,5,"corn, milk, palm sugar","halal, vegetarian, balanced, high_fiber, budget_friendly",milk,low,20,indonesian,easy
+meal_071,Nasi Ayam Kecap,lunch,560,34,68,15,"rice, chicken, sweet soy sauce, garlic, cucumber","halal, balanced, high_protein",soy,medium,30,indonesian,easy
+meal_072,Nasi Tempe Orek,lunch,500,25,62,16,"rice, tempeh, sweet soy sauce, garlic","halal, vegetarian, vegan, balanced, high_protein, budget_friendly",soy,low,20,indonesian,easy
+meal_073,Nasi Tahu Cabe Garam,lunch,460,22,58,14,"rice, tofu, chili, garlic","halal, vegetarian, vegan, balanced, high_protein, budget_friendly",soy,low,20,indonesian,easy
+meal_074,Nasi Capcay Ayam,lunch,540,34,60,15,"rice, chicken, cabbage, carrot, broccoli","halal, balanced, high_protein, high_fiber",,medium,25,chinese_indonesian,easy
+meal_075,Nasi Capcay Tahu,lunch,470,23,58,13,"rice, tofu, cabbage, carrot, broccoli","halal, vegetarian, vegan, balanced, high_protein, high_fiber, budget_friendly",soy,low,25,chinese_indonesian,easy
+meal_076,Nasi Pecel Madiun,lunch,580,22,70,24,"rice, tofu, tempeh, vegetables, peanut sauce","halal, vegetarian, vegan, balanced, high_protein, high_fiber, budget_friendly","soy, peanut",low,25,indonesian,easy
+meal_077,Nasi Soto Ayam,lunch,520,33,58,14,"rice, chicken, turmeric broth, cabbage","halal, balanced, high_protein, high_fiber",,medium,35,indonesian,medium
+meal_078,Nasi Sayur Asem Tempe,lunch,520,24,76,13,"rice, tempeh, tamarind soup, corn, long beans","halal, vegetarian, vegan, balanced, high_protein, high_fiber, budget_friendly",soy,low,35,indonesian,medium
+meal_079,Nasi Ikan Kembung Goreng,lunch,610,35,66,22,"rice, mackerel fish, cucumber, chili","halal, balanced, high_protein",fish,medium,25,indonesian,easy
+meal_080,Nasi Ikan Kembung Panggang,lunch,570,36,64,18,"rice, mackerel fish, cucumber, tomato","halal, balanced, high_protein",fish,medium,30,indonesian,easy
+meal_081,Nasi Telur Balado,lunch,560,22,65,22,"rice, egg, chili, tomato","halal, vegetarian, balanced, high_protein, budget_friendly",egg,low,25,indonesian,easy
+meal_082,Nasi Ayam Suwir,lunch,550,34,65,15,"rice, chicken, garlic, sweet soy sauce","halal, balanced, high_protein",soy,medium,25,indonesian,easy
+meal_083,Nasi Sup Ayam,lunch,500,32,58,12,"rice, chicken, carrot, potato, cabbage","halal, balanced, high_protein, high_fiber",,medium,30,indonesian,easy
+meal_084,Nasi Teri Kacang,lunch,600,27,68,25,"rice, anchovy, peanut, chili","halal, vegetarian, vegan, balanced","peanut, fish",medium,20,indonesian,easy
+meal_085,Nasi Tumis Kangkung Tahu,lunch,470,22,62,12,"rice, tofu, water spinach, garlic","halal, vegetarian, vegan, balanced, high_protein, high_fiber, budget_friendly",soy,low,18,indonesian,easy
+meal_086,Nasi Perkedel Tahu,lunch,520,22,62,18,"rice, tofu, egg, flour, scallion","halal, vegetarian, balanced, high_protein, budget_friendly","soy, egg, gluten",low,25,indonesian,easy
+meal_087,Nasi Ayam Bakar,lunch,620,40,70,19,"rice, grilled chicken, cucumber, sweet soy sauce","halal, balanced, high_protein",soy,medium,40,indonesian,medium
+meal_088,Nasi Pepes Tahu,lunch,430,20,58,10,"rice, tofu, banana leaf, basil","halal, vegetarian, vegan, balanced, high_protein, budget_friendly",soy,low,30,indonesian,easy
+meal_089,Nasi Pepes Ikan,lunch,560,35,60,16,"rice, fish, banana leaf, basil","halal, balanced, high_protein",fish,medium,35,indonesian,medium
+meal_090,Nasi Cah Sawi Tahu,lunch,450,21,58,12,"rice, tofu, mustard greens, garlic","halal, vegetarian, vegan, balanced, high_protein, budget_friendly",soy,low,18,chinese_indonesian,easy
+meal_091,Nasi Oseng Tempe Kacang Panjang,lunch,520,25,66,16,"rice, tempeh, long beans, sweet soy sauce","halal, vegetarian, vegan, balanced, high_protein, high_fiber, budget_friendly",soy,low,20,indonesian,easy
+meal_092,Nasi Rawon Ayam Simple,lunch,590,34,62,22,"rice, chicken, keluak spice, bean sprouts","halal, balanced, high_protein, high_fiber",,medium,40,indonesian,medium
+meal_093,Nasi Kari Ayam Simple,lunch,650,36,68,24,"rice, chicken, coconut milk, potato, carrot","halal, balanced, high_protein, high_fiber","milk, coconut",medium,40,indonesian,medium
+meal_094,Nasi Bakwan Jagung Sayur,lunch,530,14,78,16,"rice, corn, flour, cabbage, carrot","halal, vegetarian, vegan, balanced, high_fiber, budget_friendly",gluten,low,25,indonesian,easy
+meal_095,Nasi Tahu Tempe Bacem,lunch,560,24,76,18,"rice, tofu, tempeh, sweet soy sauce, garlic","halal, vegetarian, vegan, balanced, high_protein, budget_friendly",soy,low,35,indonesian,medium
+meal_096,Nasi Telur Ceplok Sambal,lunch,520,19,64,20,"rice, egg, chili, tomato","halal, vegetarian, balanced, high_protein, budget_friendly",egg,low,15,indonesian,easy
+meal_097,Nasi Telur Dadar Padang Simple,lunch,600,24,65,26,"rice, egg, chili, scallion","halal, vegetarian, balanced, high_protein, budget_friendly",egg,low,20,indonesian,easy
+meal_098,Nasi Ayam Rica Simple,lunch,610,38,65,21,"rice, chicken, chili, basil","halal, balanced, high_protein",,medium,35,indonesian,medium
+meal_099,Nasi Ayam Jahe,lunch,540,36,62,14,"rice, chicken, ginger, garlic","halal, balanced, high_protein",,medium,25,indonesian,easy
+meal_100,Nasi Ayam Serundeng Simple,lunch,650,38,72,24,"rice, chicken, coconut, garlic","halal, balanced, high_protein",coconut,medium,35,indonesian,medium
+meal_101,Nasi Ayam Kunyit,lunch,560,37,64,15,"rice, chicken, turmeric, garlic","halal, balanced, high_protein",,medium,25,indonesian,easy
+meal_102,Nasi Tahu Bumbu Kuning,lunch,470,22,60,14,"rice, tofu, turmeric, garlic","halal, vegetarian, vegan, balanced, high_protein, budget_friendly",soy,low,25,indonesian,easy
+meal_103,Nasi Tempe Bumbu Kuning,lunch,520,25,64,17,"rice, tempeh, turmeric, garlic","halal, vegetarian, vegan, balanced, high_protein, budget_friendly",soy,low,25,indonesian,easy
+meal_104,Nasi Ikan Sarden Tomat,lunch,530,29,62,18,"rice, sardine, tomato sauce, spinach","halal, balanced, high_protein, high_fiber, budget_friendly",fish,low,15,indonesian,easy
+meal_105,Nasi Tuna Suwir,lunch,560,34,64,17,"rice, tuna, garlic, chili","halal, balanced, high_protein",fish,medium,20,indonesian,easy
+meal_106,Nasi Lele Goreng,lunch,640,36,70,24,"rice, catfish, cucumber, chili","halal, balanced, high_protein",fish,medium,25,indonesian,easy
+meal_107,Nasi Mujair Goreng,lunch,610,35,68,21,"rice, tilapia fish, cucumber, tomato","halal, balanced, high_protein",fish,medium,25,indonesian,easy
+meal_108,Nasi Oseng Tahu Jamur,lunch,460,22,58,13,"rice, tofu, mushroom, garlic","halal, vegetarian, vegan, balanced, high_protein, budget_friendly",soy,low,20,indonesian,easy
+meal_109,Nasi Tumis Buncis Telur,lunch,500,22,60,17,"rice, egg, green beans, garlic","halal, vegetarian, balanced, high_protein, budget_friendly",egg,low,18,indonesian,easy
+meal_110,Nasi Tumis Kol Telur,lunch,480,20,60,15,"rice, egg, cabbage, garlic","halal, vegetarian, balanced, high_protein, high_fiber, budget_friendly",egg,low,15,indonesian,easy
+meal_111,Nasi Tumis Sawi Ayam,lunch,520,34,58,14,"rice, chicken, mustard greens, garlic","halal, balanced, high_protein",,medium,20,indonesian,easy
+meal_112,Nasi Tumis Sawi Tahu,lunch,440,21,56,12,"rice, tofu, mustard greens, garlic","halal, vegetarian, vegan, balanced, high_protein, budget_friendly",soy,low,18,indonesian,easy
+meal_113,Nasi Sop Tahu Wortel,lunch,420,19,58,9,"rice, tofu, carrot, cabbage","halal, vegetarian, vegan, balanced, high_protein, high_fiber, budget_friendly",soy,low,25,indonesian,easy
+meal_114,Nasi Sop Bakso Ayam,lunch,560,28,62,20,"rice, chicken meatballs, carrot, cabbage","halal, balanced, high_protein, high_fiber",,medium,25,indonesian,easy
+meal_115,Nasi Telur Kecap Bawang,lunch,480,19,62,16,"rice, egg, sweet soy sauce, shallot","halal, vegetarian, balanced, high_protein, budget_friendly","soy, egg",low,15,indonesian,easy
+meal_116,Nasi Tahu Telur Surabaya,lunch,620,28,68,26,"rice, tofu, egg, peanut sauce","halal, vegetarian, balanced, high_protein","soy, egg, peanut",medium,25,indonesian,easy
+meal_117,Nasi Lotek Sayur,lunch,520,18,66,22,"rice, vegetables, tofu, peanut sauce","halal, vegetarian, vegan, balanced, high_protein, high_fiber, budget_friendly","soy, peanut",low,25,indonesian,easy
+meal_118,Nasi Karedok Tahu,lunch,470,18,58,18,"rice, tofu, raw vegetables, peanut sauce","halal, vegetarian, vegan, balanced, high_protein, high_fiber, budget_friendly","soy, peanut",low,20,indonesian,easy
+meal_119,Nasi Urap Tempe,lunch,500,22,65,16,"rice, tempeh, vegetables, coconut","halal, vegetarian, vegan, balanced, high_protein, high_fiber, budget_friendly","soy, coconut",low,25,indonesian,easy
+meal_120,Nasi Oseng Pare Telur,lunch,480,21,58,16,"rice, egg, bitter melon, garlic","halal, vegetarian, balanced, high_protein, budget_friendly",egg,low,20,indonesian,easy
+meal_121,Nasi Lodeh Tahu,lunch,550,20,68,22,"rice, tofu, coconut milk, chayote","halal, vegetarian, balanced, high_protein, budget_friendly","soy, milk, coconut",low,30,indonesian,easy
+meal_122,Nasi Lodeh Tempe,lunch,570,23,70,22,"rice, tempeh, coconut milk, chayote","halal, vegetarian, balanced, high_protein, budget_friendly","soy, milk, coconut",low,30,indonesian,easy
+meal_123,Nasi Bobor Bayam Telur,lunch,530,21,66,20,"rice, egg, spinach, coconut milk","halal, vegetarian, balanced, high_protein, high_fiber, budget_friendly","egg, milk, coconut",low,30,indonesian,easy
+meal_124,Nasi Gudeg Telur Simple,lunch,650,24,82,24,"rice, egg, jackfruit, coconut milk","halal, vegetarian, balanced, high_protein","egg, milk, coconut",medium,40,indonesian,medium
+meal_125,Nasi Gudeg Tahu,lunch,610,22,84,20,"rice, tofu, jackfruit, coconut milk","halal, vegetarian, balanced, high_protein","soy, milk, coconut",medium,40,indonesian,medium
+meal_126,Nasi Gule Ayam Simple,lunch,700,38,66,30,"rice, chicken, coconut milk, spices","halal, balanced, high_protein","milk, coconut",medium,45,indonesian,medium
+meal_127,Nasi Opor Ayam Simple,lunch,690,37,68,28,"rice, chicken, coconut milk, potato","halal, balanced, high_protein","milk, coconut",medium,45,indonesian,medium
+meal_128,Nasi Sambal Goreng Tahu,lunch,560,22,66,22,"rice, tofu, chili, coconut milk","halal, vegetarian, balanced, high_protein, budget_friendly","soy, milk, coconut",low,30,indonesian,easy
+meal_129,Nasi Sambal Goreng Tempe,lunch,590,26,68,23,"rice, tempeh, chili, coconut milk","halal, vegetarian, balanced, high_protein, budget_friendly","soy, milk, coconut",low,30,indonesian,easy
+meal_130,Nasi Semur Telur,lunch,560,22,68,21,"rice, egg, sweet soy sauce, potato","halal, vegetarian, balanced, high_protein, budget_friendly","soy, egg",low,30,indonesian,easy
+meal_131,Nasi Semur Tahu,lunch,520,21,68,18,"rice, tofu, sweet soy sauce, potato","halal, vegetarian, vegan, balanced, high_protein, budget_friendly",soy,low,30,indonesian,easy
+meal_132,Nasi Semur Ayam,lunch,650,36,70,24,"rice, chicken, sweet soy sauce, potato","halal, balanced, high_protein",soy,medium,40,indonesian,medium
+meal_133,Nasi Ayam Teriyaki Rumahan,lunch,620,38,72,19,"rice, chicken, soy sauce, sweet soy sauce","halal, balanced, high_protein",soy,medium,25,asian,easy
+meal_134,Nasi Beef Teriyaki Simple,lunch,690,40,74,24,"rice, beef, soy sauce, broccoli","halal, balanced, high_protein",soy,high,30,asian,easy
+meal_135,Nasi Chicken Katsu Simple,lunch,720,39,82,26,"rice, chicken, flour, egg, cabbage","halal, balanced, high_protein, high_fiber","egg, gluten",high,35,japanese,medium
+meal_136,Nasi Tofu Teriyaki,lunch,500,24,64,15,"rice, tofu, soy sauce, broccoli","halal, vegetarian, vegan, balanced, high_protein, budget_friendly",soy,low,25,asian,easy
+meal_137,Nasi Ayam Lada Hitam,lunch,620,37,66,22,"rice, chicken, black pepper, onion","halal, balanced, high_protein",,medium,25,chinese_indonesian,easy
+meal_138,Nasi Tahu Lada Hitam,lunch,500,23,62,16,"rice, tofu, black pepper, onion","halal, vegetarian, vegan, balanced, high_protein, budget_friendly",soy,low,20,chinese_indonesian,easy
+meal_139,Nasi Capcay Seafood,lunch,680,38,70,24,"rice, shrimp, cabbage, carrot, broccoli","halal, balanced, high_protein, high_fiber",shellfish,high,30,chinese_indonesian,easy
+meal_140,Nasi Udang Saus Tiram,lunch,650,36,66,23,"rice, shrimp, oyster sauce, broccoli","halal, balanced, high_protein",shellfish,high,25,chinese_indonesian,easy
+meal_141,Nasi Ayam Saus Tiram,lunch,610,36,66,20,"rice, chicken, oyster sauce, cabbage","halal, balanced, high_protein, high_fiber",,medium,25,chinese_indonesian,easy
+meal_142,Nasi Tumis Jamur Telur,lunch,500,22,58,18,"rice, egg, mushroom, garlic","halal, vegetarian, balanced, high_protein, budget_friendly",egg,low,18,indonesian,easy
+meal_143,Nasi Oseng Teri Tempe,lunch,580,29,66,20,"rice, anchovy, tempeh, chili","halal, vegetarian, vegan, balanced, high_protein","soy, fish",medium,20,indonesian,easy
+meal_144,Nasi Tahu Kemangi,lunch,450,21,58,12,"rice, tofu, basil, garlic","halal, vegetarian, vegan, balanced, high_protein, budget_friendly",soy,low,18,indonesian,easy
+meal_145,Nasi Ayam Kemangi,lunch,560,36,60,16,"rice, chicken, basil, garlic","halal, balanced, high_protein",,medium,25,indonesian,easy
+meal_146,Nasi Ikan Tongkol Suwir,lunch,580,36,64,18,"rice, tuna fish, chili, garlic","halal, balanced, high_protein",fish,medium,25,indonesian,easy
+meal_147,Nasi Pindang Telur,lunch,540,22,66,18,"rice, egg, sweet soy sauce, spices","halal, vegetarian, balanced, high_protein, budget_friendly","soy, egg",low,30,indonesian,easy
+meal_148,Nasi Sup Jagung Ayam,lunch,520,32,62,13,"rice, chicken, corn, carrot","halal, balanced, high_protein, high_fiber",,medium,30,indonesian,easy
+meal_149,Nasi Sup Jagung Tahu,lunch,440,20,60,10,"rice, tofu, corn, carrot","halal, vegetarian, vegan, balanced, high_protein, high_fiber, budget_friendly",soy,low,25,indonesian,easy
+meal_150,Nasi Cah Kangkung Ayam,lunch,540,34,60,15,"rice, chicken, water spinach, garlic","halal, balanced, high_protein, high_fiber",,medium,20,indonesian,easy
+meal_151,Nasi Cah Kangkung Tempe,lunch,500,25,64,15,"rice, tempeh, water spinach, garlic","halal, vegetarian, vegan, balanced, high_protein, high_fiber, budget_friendly",soy,low,18,indonesian,easy
+meal_152,Nasi Telur Krispi Simple,lunch,610,24,72,24,"rice, egg, flour, chili","halal, vegetarian, balanced, high_protein, budget_friendly","egg, gluten",low,20,indonesian,easy
+meal_153,Nasi Tahu Krispi,lunch,560,23,68,20,"rice, tofu, flour, garlic","halal, vegetarian, vegan, balanced, high_protein, budget_friendly","soy, gluten",low,20,indonesian,easy
+meal_154,Nasi Tempe Krispi,lunch,590,27,68,22,"rice, tempeh, flour, garlic","halal, vegetarian, vegan, balanced, high_protein, budget_friendly","soy, gluten",low,20,indonesian,easy
+meal_155,Nasi Ayam Tepung Rumahan,lunch,700,38,78,25,"rice, chicken, flour, egg","halal, balanced, high_protein","egg, gluten",medium,30,indonesian,easy
+meal_156,Nasi Sayur Sop Telur,lunch,470,21,60,14,"rice, egg, carrot, cabbage, potato","halal, vegetarian, balanced, high_protein, high_fiber, budget_friendly",egg,low,25,indonesian,easy
+meal_157,Nasi Sayur Sop Tempe,lunch,490,23,64,13,"rice, tempeh, carrot, cabbage, potato","halal, vegetarian, vegan, balanced, high_protein, high_fiber, budget_friendly",soy,low,25,indonesian,easy
+meal_158,Nasi Tumis Tauge Tahu,lunch,430,20,58,10,"rice, tofu, bean sprouts, garlic","halal, vegetarian, vegan, balanced, high_protein, high_fiber, budget_friendly",soy,low,15,indonesian,easy
+meal_159,Sup Tahu Sayur,dinner,300,18,25,9,"tofu, carrot, cabbage, celery, garlic","halal, vegetarian, vegan, balanced, high_protein, high_fiber, light",soy,low,20,indonesian,easy
+meal_160,Sayur Bening Bayam Telur,dinner,330,18,30,14,"spinach, corn, egg, garlic","halal, vegetarian, balanced, high_protein, high_fiber, light",egg,low,20,indonesian,easy
+meal_161,Tumis Kangkung Tempe,dinner,420,24,35,18,"water spinach, tempeh, garlic, chili","halal, vegetarian, vegan, balanced, high_protein, high_fiber",soy,low,18,indonesian,easy
+meal_162,Capcay Kuah Tahu,dinner,380,22,32,14,"tofu, cabbage, carrot, broccoli, garlic","halal, vegetarian, vegan, balanced, high_protein, high_fiber",soy,low,25,chinese_indonesian,easy
+meal_163,Sop Ayam Kentang,dinner,430,32,36,14,"chicken, potato, carrot, cabbage, celery","halal, balanced, high_protein, high_fiber",,medium,30,indonesian,easy
+meal_164,Tahu Tempe Bacem,dinner,520,26,52,22,"tofu, tempeh, sweet soy sauce, garlic","halal, vegetarian, vegan, balanced, high_protein",soy,low,35,indonesian,medium
+meal_165,Ikan Kembung Panggang,dinner,470,35,30,22,"mackerel fish, cucumber, tomato, chili","halal, balanced, high_protein",fish,medium,30,indonesian,easy
+meal_166,Ayam Jahe Kuah,dinner,390,34,20,18,"chicken, ginger, garlic, cabbage","halal, balanced, high_protein, high_fiber",,medium,25,indonesian,easy
+meal_167,Nasi Goreng Sayur,dinner,540,16,78,18,"rice, cabbage, carrot, egg, sweet soy sauce","halal, vegetarian, balanced, high_protein, high_fiber","soy, egg",low,18,indonesian,easy
+meal_168,Mie Kuah Telur,dinner,500,20,70,15,"noodles, egg, cabbage, garlic","halal, vegetarian, balanced, high_protein, high_fiber","egg, gluten",low,15,indonesian,easy
+meal_169,Sup Jagung Telur,dinner,280,15,35,10,"corn, egg, chicken broth, scallion","halal, balanced, high_protein, high_fiber, light",egg,low,15,asian,easy
+meal_170,Tumis Sawi Tofu,dinner,360,20,30,16,"tofu, mustard greens, garlic, soy sauce","halal, vegetarian, vegan, balanced, high_protein, light",soy,low,18,asian,easy
+meal_171,Perkedel Kentang Telur,dinner,450,17,48,20,"potato, egg, flour, scallion","halal, vegetarian, balanced, high_protein","egg, gluten",low,25,indonesian,easy
+meal_172,Soto Tahu,dinner,360,20,35,12,"tofu, turmeric broth, cabbage, bean sprouts","halal, vegetarian, vegan, balanced, high_protein, high_fiber, light",soy,low,25,indonesian,easy
+meal_173,Tempe Kecap Pedas,dinner,430,24,42,17,"tempeh, sweet soy sauce, chili, garlic","halal, vegetarian, vegan, balanced, high_protein",soy,low,20,indonesian,easy
+meal_174,Telur Ceplok Sambal,dinner,330,17,12,24,"egg, chili, tomato, shallot","halal, vegetarian, balanced, high_protein, light",egg,low,15,indonesian,easy
+meal_175,Sup Oyong Telur,dinner,260,14,24,10,"egg, sponge gourd, carrot, garlic","halal, vegetarian, balanced, high_protein, high_fiber, light",egg,low,18,indonesian,easy
+meal_176,Tumis Buncis Telur,dinner,350,19,25,16,"egg, green beans, garlic","halal, vegetarian, balanced, high_protein, light",egg,low,18,indonesian,easy
+meal_177,Tahu Kukus Sayur,dinner,300,18,20,14,"tofu, spinach, carrot, soy sauce","halal, vegetarian, vegan, balanced, high_protein, high_fiber, light",soy,low,20,indonesian,easy
+meal_178,Ayam Teriyaki Rumahan,dinner,480,38,35,20,"chicken, soy sauce, sweet soy sauce, broccoli","halal, balanced, high_protein",soy,medium,25,asian,easy
+meal_179,Sayur Asem Tahu,dinner,360,18,48,8,"tofu, tamarind soup, corn, long beans","halal, vegetarian, vegan, balanced, high_protein, high_fiber, light",soy,low,30,indonesian,easy
+meal_180,Sayur Asem Ikan,dinner,460,32,45,15,"fish, tamarind soup, corn, long beans","halal, balanced, high_protein, high_fiber",fish,medium,35,indonesian,medium
+meal_181,Tumis Kol Tahu,dinner,320,18,28,14,"tofu, cabbage, garlic","halal, vegetarian, vegan, balanced, high_protein, high_fiber, light",soy,low,15,indonesian,easy
+meal_182,Tumis Kol Ayam,dinner,430,32,28,18,"chicken, cabbage, garlic","halal, balanced, high_protein, high_fiber",,medium,20,indonesian,easy
+meal_183,Sup Tahu Jamur,dinner,310,19,25,13,"tofu, mushroom, carrot, celery","halal, vegetarian, vegan, balanced, high_protein, high_fiber, light",soy,low,20,indonesian,easy
+meal_184,Sup Ayam Jamur,dinner,420,34,25,18,"chicken, mushroom, carrot, celery","halal, balanced, high_protein, high_fiber",,medium,25,indonesian,easy
+meal_185,Telur Balado Simple,dinner,420,20,20,25,"egg, chili, tomato, garlic","halal, vegetarian, balanced, high_protein",egg,low,25,indonesian,easy
+meal_186,Tahu Balado Simple,dinner,380,20,26,20,"tofu, chili, tomato, garlic","halal, vegetarian, vegan, balanced, high_protein",soy,low,20,indonesian,easy
+meal_187,Tempe Balado Simple,dinner,450,25,32,23,"tempeh, chili, tomato, garlic","halal, vegetarian, vegan, balanced, high_protein",soy,low,20,indonesian,easy
+meal_188,Ikan Balado Simple,dinner,540,35,28,28,"fish, chili, tomato, garlic","halal, balanced, high_protein",fish,medium,30,indonesian,easy
+meal_189,Sarden Kuah Tomat,dinner,430,28,25,22,"sardine, tomato sauce, spinach","halal, balanced, high_protein, high_fiber",fish,low,15,indonesian,easy
+meal_190,Tuna Tumis Cabai,dinner,460,34,18,25,"tuna, chili, garlic, tomato","halal, balanced, high_protein",fish,medium,20,indonesian,easy
+meal_191,Ayam Suwir Kemangi,dinner,430,35,18,22,"chicken, basil, chili, garlic","halal, balanced, high_protein",,medium,25,indonesian,easy
+meal_192,Tahu Kemangi Kukus,dinner,300,18,20,14,"tofu, basil, garlic, chili","halal, vegetarian, vegan, balanced, high_protein, light",soy,low,20,indonesian,easy
+meal_193,Tempe Kukus Kemangi,dinner,360,23,28,15,"tempeh, basil, garlic, chili","halal, vegetarian, vegan, balanced, high_protein, light",soy,low,20,indonesian,easy
+meal_194,Sup Bayam Tahu,dinner,280,17,25,10,"tofu, spinach, corn, garlic","halal, vegetarian, vegan, balanced, high_protein, high_fiber, light",soy,low,18,indonesian,easy
+meal_195,Sup Bayam Ayam,dinner,390,31,28,14,"chicken, spinach, corn, garlic","halal, balanced, high_protein, high_fiber",,medium,22,indonesian,easy
+meal_196,Tumis Labu Siam Telur,dinner,340,18,30,14,"egg, chayote, garlic","halal, vegetarian, balanced, high_protein, light",egg,low,18,indonesian,easy
+meal_197,Tumis Labu Siam Tahu,dinner,320,18,32,12,"tofu, chayote, garlic","halal, vegetarian, vegan, balanced, high_protein, light",soy,low,18,indonesian,easy
+meal_198,Lodeh Tahu Ringan,dinner,430,18,40,22,"tofu, coconut milk, chayote, long beans","halal, vegetarian, balanced, high_protein, high_fiber","soy, milk, coconut",low,30,indonesian,easy
+meal_199,Lodeh Tempe Ringan,dinner,470,22,42,23,"tempeh, coconut milk, chayote, long beans","halal, vegetarian, balanced, high_protein, high_fiber","soy, milk, coconut",low,30,indonesian,easy
+meal_200,Bobor Bayam Tahu,dinner,380,18,34,18,"tofu, spinach, coconut milk, garlic","halal, vegetarian, balanced, high_protein, high_fiber","soy, milk, coconut",low,25,indonesian,easy
+meal_201,Bobor Bayam Telur,dinner,410,19,32,21,"egg, spinach, coconut milk, garlic","halal, vegetarian, balanced, high_protein, high_fiber","egg, milk, coconut",low,25,indonesian,easy
+meal_202,Opor Tahu Simple,dinner,430,18,32,24,"tofu, coconut milk, potato, spices","halal, vegetarian, balanced, high_protein","soy, milk, coconut",low,30,indonesian,easy
+meal_203,Opor Ayam Simple,dinner,560,35,35,30,"chicken, coconut milk, potato, spices","halal, balanced, high_protein","milk, coconut",medium,40,indonesian,medium
+meal_204,Semur Tahu Kentang,dinner,420,18,48,17,"tofu, potato, sweet soy sauce, garlic","halal, vegetarian, vegan, balanced, high_protein",soy,low,30,indonesian,easy
+meal_205,Semur Telur Kentang,dinner,470,20,48,21,"egg, potato, sweet soy sauce, garlic","halal, vegetarian, balanced, high_protein","soy, egg",low,30,indonesian,easy
+meal_206,Semur Ayam Kentang,dinner,580,35,50,24,"chicken, potato, sweet soy sauce, garlic","halal, balanced, high_protein",soy,medium,40,indonesian,medium
+meal_207,Tumis Pare Telur,dinner,330,18,20,17,"egg, bitter melon, garlic","halal, vegetarian, balanced, high_protein, light",egg,low,18,indonesian,easy
+meal_208,Tumis Pare Tahu,dinner,310,17,22,14,"tofu, bitter melon, garlic","halal, vegetarian, vegan, balanced, high_protein, light",soy,low,18,indonesian,easy
+meal_209,Tumis Tauge Tempe,dinner,360,22,28,14,"tempeh, bean sprouts, garlic","halal, vegetarian, vegan, balanced, high_protein, high_fiber, light",soy,low,15,indonesian,easy
+meal_210,Tumis Tauge Tahu,dinner,320,18,25,12,"tofu, bean sprouts, garlic","halal, vegetarian, vegan, balanced, high_protein, high_fiber, light",soy,low,15,indonesian,easy
+meal_211,Sup Wortel Kentang Telur,dinner,360,17,40,13,"egg, carrot, potato, celery","halal, vegetarian, balanced, high_protein, high_fiber, light",egg,low,22,indonesian,easy
+meal_212,Sup Wortel Kentang Ayam,dinner,460,32,42,15,"chicken, carrot, potato, celery","halal, balanced, high_protein, high_fiber",,medium,25,indonesian,easy
+meal_213,Ayam Kecap Bawang,dinner,510,36,34,24,"chicken, sweet soy sauce, onion, garlic","halal, balanced, high_protein",soy,medium,25,indonesian,easy
+meal_214,Tahu Kecap Bawang,dinner,350,19,28,16,"tofu, sweet soy sauce, onion, garlic","halal, vegetarian, vegan, balanced, high_protein, light",soy,low,18,indonesian,easy
+meal_215,Tempe Kecap Bawang,dinner,410,24,34,17,"tempeh, sweet soy sauce, onion, garlic","halal, vegetarian, vegan, balanced, high_protein",soy,low,18,indonesian,easy
+meal_216,Ikan Kecap Jahe,dinner,500,34,25,25,"fish, sweet soy sauce, ginger, garlic","halal, balanced, high_protein","soy, fish",medium,25,indonesian,easy
+meal_217,Ayam Lada Hitam,dinner,520,36,28,26,"chicken, black pepper, onion","halal, balanced, high_protein",,medium,25,chinese_indonesian,easy
+meal_218,Tahu Lada Hitam,dinner,370,20,24,18,"tofu, black pepper, onion","halal, vegetarian, vegan, balanced, high_protein, light",soy,low,20,chinese_indonesian,easy
+meal_219,Tempe Lada Hitam,dinner,430,25,30,20,"tempeh, black pepper, onion","halal, vegetarian, vegan, balanced, high_protein",soy,low,20,chinese_indonesian,easy
+meal_220,Cah Brokoli Tahu,dinner,350,19,28,15,"tofu, broccoli, garlic, soy sauce","halal, vegetarian, vegan, balanced, high_protein, light",soy,medium,20,chinese_indonesian,easy
+meal_221,Cah Brokoli Ayam,dinner,470,35,28,19,"chicken, broccoli, garlic, soy sauce","halal, balanced, high_protein",soy,medium,22,chinese_indonesian,easy
+meal_222,Sup Bakso Ayam Sayur,dinner,460,27,35,22,"chicken meatballs, cabbage, carrot, celery","halal, balanced, high_protein, high_fiber",,medium,25,indonesian,easy
+meal_223,Mie Rebus Sayur,dinner,460,14,70,14,"noodles, cabbage, carrot, garlic","halal, vegetarian, vegan, balanced, high_fiber",gluten,low,12,indonesian,easy
+meal_224,Mie Rebus Tahu,dinner,520,22,70,18,"noodles, tofu, cabbage, garlic","halal, vegetarian, vegan, balanced, high_protein, high_fiber","soy, gluten",low,15,indonesian,easy
+meal_225,Mie Rebus Ayam,dinner,590,31,72,20,"noodles, chicken, cabbage, garlic","halal, balanced, high_protein, high_fiber",gluten,medium,18,indonesian,easy
+meal_226,Kwetiau Kuah Tahu,dinner,560,22,78,18,"flat rice noodles, tofu, cabbage, soy sauce","halal, vegetarian, vegan, balanced, high_protein, high_fiber","soy, gluten",medium,20,chinese_indonesian,easy
+meal_227,Kwetiau Kuah Ayam,dinner,640,34,80,20,"flat rice noodles, chicken, cabbage, soy sauce","halal, balanced, high_protein, high_fiber","soy, gluten",medium,22,chinese_indonesian,easy
+meal_228,Nasi Liwet Teri Simple,dinner,620,24,82,20,"rice, anchovy, coconut milk, chili","halal, vegetarian, balanced","milk, fish, coconut",medium,35,indonesian,medium
+meal_229,Nasi Liwet Tempe,dinner,580,24,80,17,"rice, tempeh, coconut milk, chili","halal, vegetarian, balanced, high_protein","soy, milk, coconut",low,35,indonesian,medium
+meal_230,Nasi Liwet Ayam,dinner,680,37,84,22,"rice, chicken, coconut milk, chili","halal, balanced, high_protein","milk, coconut",medium,40,indonesian,medium
+meal_231,Pepes Tahu Kemangi,dinner,310,18,20,14,"tofu, basil, banana leaf, chili","halal, vegetarian, vegan, balanced, high_protein, light",soy,low,30,indonesian,easy
+meal_232,Pepes Tempe Kemangi,dinner,370,23,28,15,"tempeh, basil, banana leaf, chili","halal, vegetarian, vegan, balanced, high_protein, light",soy,low,30,indonesian,easy
+meal_233,Pepes Ayam Kemangi,dinner,460,36,20,24,"chicken, basil, banana leaf, chili","halal, balanced, high_protein",,medium,35,indonesian,medium
+meal_234,Pepes Ikan Kemangi,dinner,490,35,20,26,"fish, basil, banana leaf, chili","halal, balanced, high_protein",fish,medium,35,indonesian,medium
+meal_235,Tahu Telur Kuah Kecap,dinner,390,24,26,20,"tofu, egg, sweet soy sauce, cucumber","halal, vegetarian, balanced, high_protein","soy, egg",low,20,indonesian,easy
+meal_236,Tumis Jamur Tahu,dinner,330,19,24,15,"tofu, mushroom, garlic","halal, vegetarian, vegan, balanced, high_protein, light",soy,low,18,indonesian,easy
+meal_237,Tumis Jamur Ayam,dinner,450,34,24,19,"chicken, mushroom, garlic","halal, balanced, high_protein",,medium,20,indonesian,easy
+meal_238,Sup Kacang Merah Ayam,dinner,520,35,48,18,"chicken, red beans, carrot, celery","halal, balanced, high_protein, high_fiber",,medium,40,indonesian,medium
+meal_239,Sup Kacang Merah Tahu,dinner,430,21,52,13,"tofu, red beans, carrot, celery","halal, vegetarian, vegan, balanced, high_protein, high_fiber",soy,low,35,indonesian,medium
+meal_240,Bening Katuk Telur,dinner,300,16,25,12,"egg, katuk leaves, corn, garlic","halal, vegetarian, balanced, high_protein, high_fiber, light",egg,low,18,indonesian,easy
+meal_241,Bening Katuk Tahu,dinner,270,16,24,10,"tofu, katuk leaves, corn, garlic","halal, vegetarian, vegan, balanced, high_protein, high_fiber, light",soy,low,18,indonesian,easy
+meal_242,Nasi Goreng Tahu,dinner,540,22,74,17,"rice, tofu, garlic, sweet soy sauce","halal, vegetarian, vegan, balanced, high_protein",soy,low,18,indonesian,easy
+meal_243,Nasi Goreng Ayam,dinner,620,34,76,20,"rice, chicken, garlic, sweet soy sauce","halal, balanced, high_protein",soy,medium,20,indonesian,easy
+meal_244,Nasi Goreng Ikan Asin,dinner,610,28,78,20,"rice, salted fish, egg, garlic","halal, balanced, high_protein","egg, fish",medium,20,indonesian,easy
+meal_245,Tumis Daun Singkong Teri,dinner,430,24,30,22,"cassava leaves, anchovy, garlic, coconut","halal, vegetarian, vegan, balanced","fish, coconut",medium,25,indonesian,easy
+meal_246,Tumis Daun Singkong Tahu,dinner,360,18,30,16,"cassava leaves, tofu, garlic, coconut","halal, vegetarian, vegan, balanced, high_protein, light","soy, coconut",low,25,indonesian,easy
+meal_247,Ayam Kukus Jahe,dinner,400,36,12,24,"chicken, ginger, garlic, scallion","halal, balanced, high_protein",,medium,30,indonesian,easy
+meal_248,Tahu Kukus Jahe,dinner,290,18,16,14,"tofu, ginger, garlic, scallion","halal, vegetarian, vegan, balanced, high_protein, light",soy,low,20,indonesian,easy
+meal_249,Pisang Rebus,snack,150,2,35,1,banana,"halal, vegetarian, vegan, balanced, budget_friendly",,low,10,indonesian,easy
+meal_250,Ubi Rebus,snack,180,2,41,1,sweet potato,"halal, vegetarian, vegan, balanced, budget_friendly",,low,20,indonesian,easy
+meal_251,Jagung Rebus,snack,210,6,36,6,"corn, butter","halal, vegetarian, vegan, balanced, high_fiber, budget_friendly",,low,15,indonesian,easy
+meal_252,Telur Rebus,snack,155,13,1,11,egg,"halal, vegetarian, balanced, high_protein, budget_friendly",egg,low,10,indonesian,easy
+meal_253,Tempe Goreng,snack,270,15,24,13,"tempeh, garlic","halal, vegetarian, vegan, balanced, high_protein, budget_friendly",soy,low,15,indonesian,easy
+meal_254,Tahu Isi Sayur,snack,250,10,28,11,"tofu, cabbage, carrot, flour","halal, vegetarian, vegan, balanced, high_protein, high_fiber, budget_friendly","soy, gluten",low,25,indonesian,medium
+meal_255,Bakwan Sayur,snack,260,7,34,10,"flour, cabbage, carrot, corn","halal, vegetarian, vegan, balanced, high_fiber, budget_friendly",gluten,low,20,indonesian,easy
+meal_256,Buah Potong Campur,snack,120,2,28,1,"papaya, melon, banana","halal, vegetarian, vegan, balanced, budget_friendly",,low,5,indonesian,easy
+meal_257,Roti Pisang,snack,330,9,55,9,"bread, banana","halal, vegetarian, vegan, balanced, budget_friendly",gluten,low,8,western,easy
+meal_258,Yogurt Buah,snack,220,9,38,4,"yogurt, banana, apple","halal, vegetarian, balanced",milk,medium,5,global,easy
+meal_259,Edamame Rebus,snack,190,17,14,8,"edamame, salt","halal, vegetarian, vegan, balanced, high_protein",,medium,8,japanese,easy
+meal_260,Kacang Rebus,snack,260,12,22,14,peanut,"halal, vegetarian, vegan, balanced, budget_friendly",peanut,low,25,indonesian,medium
+meal_261,Puding Susu,snack,230,7,35,7,"milk, agar agar, sugar","halal, vegetarian, balanced, budget_friendly",milk,low,15,indonesian,easy
+meal_262,Singkong Keju,snack,340,8,52,12,"cassava, cheese","halal, vegetarian, balanced",milk,medium,20,indonesian,easy
+meal_263,Smoothie Pisang,snack,260,10,46,5,"banana, milk, oats","halal, vegetarian, balanced, budget_friendly",milk,low,5,global,easy
+meal_264,Bubur Kacang Hijau Mini,snack,240,9,42,5,"mung beans, coconut milk, palm sugar","halal, vegetarian, balanced, high_fiber, budget_friendly","milk, coconut",low,25,indonesian,medium
+meal_265,Perkedel Tahu Mini,snack,220,12,18,10,"tofu, egg, flour, scallion","halal, vegetarian, balanced, high_protein, budget_friendly","soy, egg, gluten",low,20,indonesian,easy
+meal_266,Onigiri Sederhana,snack,280,8,52,5,"rice, tuna, seaweed","halal, balanced, high_protein",fish,medium,15,japanese,easy
+meal_267,Martabak Telur Mini,snack,360,16,38,16,"flour, egg, scallion","halal, vegetarian, balanced, high_protein","egg, gluten",medium,25,indonesian,medium
+meal_268,Oat Bar Homemade,snack,260,8,40,8,"oats, banana, peanut butter","halal, vegetarian, vegan, balanced, budget_friendly",peanut,low,15,western,easy
+meal_269,Jagung Susu Keju,snack,320,10,45,11,"corn, milk, cheese","halal, vegetarian, balanced, high_fiber",milk,medium,10,indonesian,easy
+meal_270,Tahu Kukus Saus Kecap,snack,180,11,12,8,"tofu, sweet soy sauce, scallion","halal, vegetarian, vegan, balanced, high_protein, budget_friendly",soy,low,10,indonesian,easy
+meal_271,Tempe Kukus Sambal,snack,210,14,18,9,"tempeh, chili, garlic","halal, vegetarian, vegan, balanced, high_protein, budget_friendly",soy,low,12,indonesian,easy
+meal_272,Telur Gulung Mini,snack,200,14,4,14,"egg, scallion","halal, vegetarian, balanced, high_protein, budget_friendly",egg,low,8,indonesian,easy
+meal_273,Pisang Oat Panggang,snack,230,7,42,5,"banana, oats, milk","halal, vegetarian, balanced, budget_friendly",milk,low,15,western,easy
+meal_274,Ubi Kukus Kelapa,snack,220,3,48,3,"sweet potato, coconut","halal, vegetarian, vegan, balanced, budget_friendly",coconut,low,20,indonesian,easy
+meal_275,Singkong Rebus Gula Merah,snack,260,3,58,3,"cassava, palm sugar, coconut","halal, vegetarian, vegan, balanced, budget_friendly",coconut,low,25,indonesian,medium
+meal_276,Roti Bakar Coklat Pisang,snack,360,8,60,10,"bread, banana, chocolate sprinkles","halal, vegetarian, vegan, balanced, budget_friendly",gluten,low,8,western,easy
+meal_277,Tahu Crispy Mini,snack,240,11,26,10,"tofu, flour, garlic","halal, vegetarian, vegan, balanced, high_protein, budget_friendly","soy, gluten",low,15,indonesian,easy
+meal_278,Tempe Crispy Mini,snack,280,15,28,12,"tempeh, flour, garlic","halal, vegetarian, vegan, balanced, high_protein, budget_friendly","soy, gluten",low,15,indonesian,easy
+meal_279,Bakwan Jagung Mini,snack,250,7,35,9,"corn, flour, scallion","halal, vegetarian, vegan, balanced, high_fiber, budget_friendly",gluten,low,18,indonesian,easy
+meal_280,Pisang Goreng Oat,snack,300,6,48,11,"banana, flour, oats","halal, vegetarian, vegan, balanced, budget_friendly",gluten,low,18,indonesian,easy
+meal_281,Ubi Goreng Tepung,snack,310,4,55,10,"sweet potato, flour","halal, vegetarian, vegan, balanced, budget_friendly",gluten,low,18,indonesian,easy
+meal_282,Kentang Rebus Telur,snack,280,14,35,8,"potato, egg","halal, vegetarian, balanced, high_protein, budget_friendly",egg,low,20,indonesian,easy
+meal_283,Salad Buah Yogurt,snack,260,8,42,6,"apple, banana, yogurt","halal, vegetarian, balanced",milk,medium,10,global,easy
+meal_284,Ketan Kelapa Mini,snack,300,5,62,6,"glutinous rice, coconut","halal, vegetarian, vegan, balanced, budget_friendly",coconut,low,25,indonesian,medium
+meal_285,Lemper Ayam Simple,snack,330,15,50,9,"glutinous rice, chicken, coconut milk","halal, balanced, high_protein","milk, coconut",medium,30,indonesian,medium
+meal_286,Arem Arem Tahu,snack,300,11,48,8,"rice, tofu, carrot, coconut milk","halal, vegetarian, balanced, high_protein, high_fiber, budget_friendly","soy, milk, coconut",low,30,indonesian,medium
+meal_287,Dadar Gulung Mini,snack,220,5,36,6,"flour, coconut, palm sugar","halal, vegetarian, vegan, balanced, budget_friendly","gluten, coconut",low,25,indonesian,medium
+meal_288,Klepon Mini,snack,210,4,42,4,"glutinous rice flour, coconut, palm sugar","halal, vegetarian, vegan, balanced, budget_friendly","gluten, coconut",low,25,indonesian,medium
+meal_289,Nagasari Pisang,snack,240,5,45,6,"rice flour, banana, coconut milk","halal, vegetarian, balanced, budget_friendly","gluten, milk, coconut",low,25,indonesian,medium
+meal_290,Tahu Bakso Ayam,snack,300,20,18,14,"tofu, chicken, flour","halal, balanced, high_protein","soy, gluten",medium,25,indonesian,medium
+meal_291,Siomay Tahu Simple,snack,320,18,30,12,"tofu, fish, flour, peanut sauce","halal, balanced, high_protein","soy, peanut, gluten, fish",medium,25,indonesian,medium
+meal_292,Batagor Tahu Mini,snack,360,18,34,18,"tofu, fish, flour, peanut sauce","halal, balanced, high_protein","soy, peanut, gluten, fish",medium,25,indonesian,medium
+meal_293,Kroket Kentang Sayur,snack,310,8,42,12,"potato, carrot, flour, egg","halal, vegetarian, balanced, high_protein, high_fiber","egg, gluten",medium,25,indonesian,medium
+meal_294,Sate Tempe Mini,snack,260,15,26,10,"tempeh, sweet soy sauce, peanut sauce","halal, vegetarian, vegan, balanced, high_protein, budget_friendly","soy, peanut",low,20,indonesian,easy
+meal_295,Sate Tahu Mini,snack,230,12,20,10,"tofu, sweet soy sauce, peanut sauce","halal, vegetarian, vegan, balanced, high_protein, budget_friendly","soy, peanut",low,20,indonesian,easy
+meal_296,Rujak Buah Simple,snack,180,3,40,2,"mango, cucumber, peanut, palm sugar","halal, vegetarian, vegan, balanced, budget_friendly",peanut,low,10,indonesian,easy
+meal_297,Kolak Pisang Mini,snack,280,4,52,8,"banana, coconut milk, palm sugar","halal, vegetarian, balanced, budget_friendly","milk, coconut",low,20,indonesian,easy
+meal_298,Susu Jahe Oat,snack,230,9,32,7,"milk, ginger, oats","halal, vegetarian, balanced, budget_friendly",milk,low,10,global,easy
+meal_299,Tahu Kukus Kecap Mini,snack,170,10,12,8,"tofu, sweet soy sauce, scallion","halal, vegetarian, vegan, balanced, high_protein, budget_friendly",soy,low,10,indonesian,easy
+meal_300,Pisang Panggang Kayu Manis,snack,190,3,42,3,"banana, cinnamon","halal, vegetarian, vegan, balanced, budget_friendly",,low,12,indonesian,easy
