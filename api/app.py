@@ -2,6 +2,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from typing import List, Optional
+from pathlib import Path
 import pandas as pd
 import joblib
 from sklearn.metrics.pairwise import cosine_similarity
@@ -16,9 +17,11 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-vectorizer = joblib.load("vectorizer.pkl")
-df = joblib.load("meals_database.pkl")
+ROOT_DIR = Path(__file__).resolve().parent.parent
+MODEL_DIR = ROOT_DIR / "model"
 
+vectorizer = joblib.load(MODEL_DIR / "vectorizer.pkl")
+df = joblib.load(MODEL_DIR / "meals_database.pkl")
 used_meals = set()
 
 
